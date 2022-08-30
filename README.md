@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lomi
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Games
+
